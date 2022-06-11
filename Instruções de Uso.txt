@@ -1,0 +1,19 @@
+Caso queira gerar pdf, crie uma pasta chamada " pdf " no diretorio onde se encontra os arquivos do programa atual.
+Dentros dos mesmos, mova os seguintes arquivos para a pasta ' pdf ':
+
+PDFconexao.php
+PDFindex.php
+PDFlista.php
+
+Quando move-los para a pasta destinada, os renomeie respectivamente como:
+
+conexao.php
+index.php
+lista.php
+
+--------------
+Após isso utilize o composer e importe a biblioteca Mpdf para a pasta " pdf " onde se encontra os 3 arquivos recem nomeados.
+
+
+
+OBS: Não se esuquça de utilizar o banco de dados e mudar usuario e senha.
