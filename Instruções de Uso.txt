@@ -16,4 +16,4 @@ Após isso utilize o composer e importe a biblioteca Mpdf para a pasta " pdf " o
 
 
 
-OBS: Não se esuquça de utilizar o banco de dados e mudar usuario e senha.
+OBS: Não se esqueça de utilizar o banco de dados e mudar usuario e senha.
